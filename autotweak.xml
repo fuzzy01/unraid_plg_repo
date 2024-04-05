@@ -10,5 +10,6 @@ Unraid plugin that enables you to adjust your Unraid system's power profile to e
 Additionally, it fine-tunes the TCP stack settings and network interface card (NIC) interrupt affinities to optimize network performance. 
 Please note: This plugin is not compatible with other plugins that alter the same settings.
 </Description>
+<Project>https://github.com/fuzzy01/autotweak</Project>
 <Icon>https://raw.githubusercontent.com/fuzzy01/autotweak/main/source/images/autotweak.png</Icon>
 </Containers>
