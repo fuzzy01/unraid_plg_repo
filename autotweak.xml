@@ -11,5 +11,6 @@ Additionally, it fine-tunes the TCP stack settings and network interface card (N
 Please note: This plugin is not compatible with other plugins that alter the same settings.
 </Description>
 <Project>https://github.com/fuzzy01/autotweak</Project>
+<Support>https://forums.unraid.net/topic/160719-plugin-autotweak</Support>
 <Icon>https://raw.githubusercontent.com/fuzzy01/autotweak/main/source/images/autotweak.png</Icon>
 </Containers>
